@@ -10,10 +10,10 @@ A simple and interactive **Personal Finance Tracker** web app that helps users t
 
 ## 🎥 Demo
 🚀 Live Demo: (https://ramalalithya.github.io/Personal-Finance-Tracker/) 
-![Demo GIF](demo.gif)
+![Demo GIF](demo.gif.gif)
 
 ## 📸 Screenshots
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Libraries Used:** Chart.js (for graphs)
