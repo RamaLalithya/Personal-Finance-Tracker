@@ -9,11 +9,10 @@ A simple and interactive **Personal Finance Tracker** web app that helps users t
 ✔️ Data persistence using **Local Storage**  
 
 ## 🎥 Demo
-🚀 Live Demo: [Click Here](https://ramalalithya.github.io/Personal-Finance-Tracker/) *(Replace with your GitHub Pages link)*
+🚀 Live Demo: (https://ramalalithya.github.io/Personal-Finance-Tracker/) 
 
 ## 📸 Screenshots
-![App Screenshot](screenshot.png) *(Upload a screenshot of your app and replace this with the correct filename)*
-
+(screenshot.png) 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Libraries Used:** Chart.js (for graphs)
